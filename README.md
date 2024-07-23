@@ -8,7 +8,7 @@ Feature extraction using TF-IDF or CountVectorizer
 Machine learning model training and evaluation
 
 Dataset
-The dataset used for this project is a collection of labeled emails indicating whether they are spam or not. I have used Email.csv from kaggle
+The dataset used for this project is a collection of labeled emails indicating whether they are spam or not. I have used spam.csv from kaggle
 
 
 
